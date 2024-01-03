@@ -2,7 +2,7 @@
 
 Process involved:
 
-- Imported Data into MSSql Server
+- Imported Data into MSSQL Server
 - Developed a database
 - Formulated SQL queries
 - Generated reports Based on Querry
