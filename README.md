@@ -1,7 +1,7 @@
 # Bank-Loan-Report
 
 Problem Statement
-- To effectively monitor and evaluate the lending activities and performance of the bank
+- To Effectively Monitor and Evaluate the Lending Activities and Performance of the Bank
 
 Primary Objective is to support informed decision-making by providing a detailed overview of key aspects related to loan portfolio
 
@@ -11,7 +11,7 @@ Process involved:
 
 - Imported Data into MSSQL Server
 - Developed a database
-- Formulated SQL queries
+- Formulated SQL query
 - Generated reports Based on Querry
 - Connected MSSQL to Power BI
 - Conducted data cleaning
