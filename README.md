@@ -2,9 +2,10 @@
 
 Process involved:
 
-- Developed a Microsoft SQL database
+- Imported Data into MSSql Server
+- Developed a database
 - Formulated SQL queries
-- Generated reports
-- Imported data into Power BI
+- Generated reports Based on Querry
+- Connected MSSQL to Power BI
 - Conducted data cleaning
 - Executed data visualization
