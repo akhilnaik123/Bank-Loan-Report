@@ -1,4 +1,4 @@
-# Bank-Loan-Report
+# Bank-Fianancial-Loan-Report
 
 Problem Statement
 - To Effectively Monitor and Evaluate the Lending Activities and Performance of the Bank
